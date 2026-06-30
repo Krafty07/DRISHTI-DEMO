@@ -149,7 +149,7 @@ st.markdown('<hr class="d-divider">', unsafe_allow_html=True)
 st.markdown("""
 <div style='text-align:center; padding:2rem 0;'>
   <div style='font-family:Space Grotesk,sans-serif; font-size:1.3rem; font-weight:700; color:#E2E8F0;'>
-    Team DRISHTI
+    DRISHTI
   </div>
   <div style='font-size:0.85rem; color:#475569; margin-top:0.5rem; max-width:600px; margin-left:auto; margin-right:auto; line-height:1.8;'>
     Built for the ISRO Hackathon — Route Resilience: Occlusion-Robust Road Extraction
