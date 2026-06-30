@@ -1,0 +1,27 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit local runtime files
+.streamlit/
+
+# Local caches and generated data
+cache/
+*.pkl
+*.joblib
+*.h5
+*.npz
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
